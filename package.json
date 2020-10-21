@@ -1,0 +1,19 @@
+{
+  "name": "bitgo-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bitgo/unspents": "^0.6.2",
+    "bitgo": "^11.0.3",
+    "lodash": "^4.17.20",
+    "npx": "^10.2.2",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.3"
+  }
+}
