@@ -80,7 +80,6 @@ async function main() {
       {
         // this should be a precise value without any change outputs now
         amount: sendAmount - secondSendAmount,
-        // coinlist hot address
         address: destAddress,
       },
       {
